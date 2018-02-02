@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
                 txt.setText(arrContent.get(pos).getDescription());
                 txt2.setText(vitri+" of "+arrContent.size());
                 break;
+                // Sửa ở đây
         }
     }
 }
