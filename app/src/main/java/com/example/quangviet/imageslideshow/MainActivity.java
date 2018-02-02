@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         imageView = findViewById(R.id.imageView);
         txt = findViewById(R.id.textView2);
         txt2 = findViewById(R.id.textView3);
-
+        // Bài tập Github
 
 
 
